@@ -1,0 +1,7 @@
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-2\HomeWork_2\bin\Debug\HomeWork_2.exe.config
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-2\HomeWork_2\bin\Debug\HomeWork_2.exe
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-2\HomeWork_2\bin\Debug\HomeWork_2.pdb
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-2\HomeWork_2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-2\HomeWork_2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-2\HomeWork_2\obj\Debug\HomeWork_2.exe
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-2\HomeWork_2\obj\Debug\HomeWork_2.pdb
