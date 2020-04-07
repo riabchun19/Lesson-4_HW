@@ -5,3 +5,10 @@ C:\Users\Олександр\Desktop\GitKraken\Lesson_4 шаблон\HW_3\HW_3\OO
 C:\Users\Олександр\Desktop\GitKraken\Lesson_4 шаблон\HW_3\HW_3\OOP_4_TEST\obj\Debug\HomeWork-3.csproj.CoreCompileInputs.cache
 C:\Users\Олександр\Desktop\GitKraken\Lesson_4 шаблон\HW_3\HW_3\OOP_4_TEST\obj\Debug\OOP_4_TEST.exe
 C:\Users\Олександр\Desktop\GitKraken\Lesson_4 шаблон\HW_3\HW_3\OOP_4_TEST\obj\Debug\OOP_4_TEST.pdb
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-3\OOP_4_TEST\bin\Debug\OOP_4_TEST.exe.config
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-3\OOP_4_TEST\bin\Debug\OOP_4_TEST.exe
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-3\OOP_4_TEST\bin\Debug\OOP_4_TEST.pdb
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-3\OOP_4_TEST\obj\Debug\HomeWork-3.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-3\OOP_4_TEST\obj\Debug\HomeWork-3.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-3\OOP_4_TEST\obj\Debug\OOP_4_TEST.exe
+C:\Users\Олександр\Desktop\GitKraken\Lesson-4_HW\HW-3\OOP_4_TEST\obj\Debug\OOP_4_TEST.pdb

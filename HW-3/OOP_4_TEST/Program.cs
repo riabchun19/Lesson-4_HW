@@ -6,7 +6,7 @@ namespace LambdaExpressions
 { 
     class Program
     {   // 3. *Дан фрагмент программы:
-        // а) Свернуть обращение к OrderBy с использованием лямбда-выражения$ 
+        // а) Свернуть обращение к OrderBy с использованием лямбда-выражения$ - Зробив це завдання
         // б) *Развернуть обращение к OrderBy с использованием делегата Func<KeyValuePair<string, int>, int>.
 
         static void Main()
@@ -19,7 +19,7 @@ namespace LambdaExpressions
             {"three",3 },
             };
 
-            var d = dict.OrderBy(delegate (KeyValuePair<string, int> pair) { return pair.Value; });
+            var d = dict.OrderBy(e => e.Value);
 
             foreach (var pair in d)
             {
