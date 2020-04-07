@@ -1,0 +1,14 @@
+C:\Users\Олександр\source\repos\OOP_4_TEST\OOP_4_TEST\bin\Debug\OOP_4_TEST.exe.config
+C:\Users\Олександр\source\repos\OOP_4_TEST\OOP_4_TEST\bin\Debug\OOP_4_TEST.exe
+C:\Users\Олександр\source\repos\OOP_4_TEST\OOP_4_TEST\bin\Debug\OOP_4_TEST.pdb
+C:\Users\Олександр\source\repos\OOP_4_TEST\OOP_4_TEST\obj\Debug\OOP_4_TEST.csprojAssemblyReference.cache
+C:\Users\Олександр\source\repos\OOP_4_TEST\OOP_4_TEST\obj\Debug\OOP_4_TEST.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\source\repos\OOP_4_TEST\OOP_4_TEST\obj\Debug\OOP_4_TEST.exe
+C:\Users\Олександр\source\repos\OOP_4_TEST\OOP_4_TEST\obj\Debug\OOP_4_TEST.pdb
+C:\Users\Олександр\Desktop\GitKraken\Lesson_4_HW\HW_3\HW_3\OOP_4_TEST\bin\Debug\OOP_4_TEST.exe.config
+C:\Users\Олександр\Desktop\GitKraken\Lesson_4_HW\HW_3\HW_3\OOP_4_TEST\bin\Debug\OOP_4_TEST.exe
+C:\Users\Олександр\Desktop\GitKraken\Lesson_4_HW\HW_3\HW_3\OOP_4_TEST\bin\Debug\OOP_4_TEST.pdb
+C:\Users\Олександр\Desktop\GitKraken\Lesson_4_HW\HW_3\HW_3\OOP_4_TEST\obj\Debug\OOP_4_TEST.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\GitKraken\Lesson_4_HW\HW_3\HW_3\OOP_4_TEST\obj\Debug\OOP_4_TEST.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\GitKraken\Lesson_4_HW\HW_3\HW_3\OOP_4_TEST\obj\Debug\OOP_4_TEST.exe
+C:\Users\Олександр\Desktop\GitKraken\Lesson_4_HW\HW_3\HW_3\OOP_4_TEST\obj\Debug\OOP_4_TEST.pdb
