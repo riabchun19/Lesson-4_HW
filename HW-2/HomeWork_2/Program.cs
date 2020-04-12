@@ -33,13 +33,14 @@ namespace HomeWork2
 
             PrintResult(items,
                         inputData =>
-                            from x in items
-                            group x by x into g
+                            from item in inputData
+                            group item by item into g
                             let count = g.Count()
                             select new KeyValuePair<int, int>(g.Key, g.Count()));
 
-            PrintResult(items, inputData => inputData.GroupBy(x => x)
-                                          .Select(g => new KeyValuePair<int, int>(g.Key, g.Count())));
+            PrintResult(items, inputData => inputData
+                                            .GroupBy(x => x)
+                                            .Select(g => new KeyValuePair<int, int>(g.Key, g.Count())));
 
             Console.ReadLine();
         }
